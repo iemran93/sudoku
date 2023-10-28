@@ -3,7 +3,7 @@
 <img src="https://i.guim.co.uk/img/media/245d67faaae75d11d5116139cc495efdd552a734/0_0_431_431/master/431.jpg?width=620&dpr=1&s=none" alt="My image" width="200">
 
 #### Using recursive algorithm this code solve a sudoku puzzle giving as argument.
-
+The dot represent an empty square. 
 
 ```
 >> go run . ".96.4...1" "1...6...4" "5.481.39." "..795..43" ".3..8...." "4.5.23.18" ".1.63..59" ".59.7.83." "..359...7"
