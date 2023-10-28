@@ -4,7 +4,6 @@
 
 <br>
 Using recursive algorithm this code solve a sudoku puzzle giving as argument.
-
 <br>
 
 ```
