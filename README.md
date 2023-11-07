@@ -1,5 +1,9 @@
 # Sudoku Solver
 
+![Go](http://img.shields.io/badge/-Go-59bbc2?style=flat-square&logo=go&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+
 <img src="https://i.guim.co.uk/img/media/245d67faaae75d11d5116139cc495efdd552a734/0_0_431_431/master/431.jpg?width=620&dpr=1&s=none" alt="My image" width="200">
 
 #### Using recursive algorithm this code solve a sudoku puzzle giving as argument.
@@ -20,5 +24,7 @@ The dot represent an empty square.
 6 5 9 1 7 4 8 3 2
 8 4 3 5 9 2 1 6 7
 ```
-
+## Author
+Emran Marei
+[@iemran93](www.github.com/iemran93/)
 
